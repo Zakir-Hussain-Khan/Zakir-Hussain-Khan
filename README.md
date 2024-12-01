@@ -3,14 +3,11 @@
 <img align="right" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" width="400" alt="">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zakir-hussain-khan&label=Profile%20views&color=0e75b6&style=flat" alt="zakir-hussain-khan" /> </p>
 
-- 💻 I’m currently working on **Building dynamic Web Applications using PHP and Laravel, while integrating MySQL databases and REST APIs for efficient backend solutions.**  
-- 📚 I’m currently learning **Laravel framework and enhancing my skills in advanced PHP, MySQL, and RESTful API integration to build robust web applications.**  
-- 👯 I’m looking to collaborate on **web development projects that involve PHP, Laravel, MySQL, and REST APIs, where I can contribute to building efficient and scalable web solutions.**  
-- 🤝 I’m looking for help with **Mastering advanced Laravel concepts, optimizing backend performance, and gaining practical experience through real-world projects.**  
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Zakir-Hussain-Khan)  
-- 💬 Ask me about **Web development with PHP, Laravel, MySQL, and REST APIs, or how to build dynamic and user-friendly web applications.**  
-- 📫 How to reach me **zakirkhan23443@gmail.com**  
-- ⚡ Fun fact **I love bringing humor into problem-solving—debugging is always better with a laugh! 😅**
+- 💻 I’m currently working on **Building dynamic Web Applications using PHP and Laravel, while integrating MySQL databases and REST APIs for efficient backend solutions.**  <br>
+- 📚 I’m currently learning **Laravel framework and enhancing my skills in advanced PHP, MySQL, and RESTful API integration to build robust web applications.**  <br>
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Zakir-Hussain-Khan)  <br>
+- 📫 How to reach me **zakirkhan23443@gmail.com**  <br>
+- ⚡ Fun fact **I love bringing humor into problem-solving—debugging is always better with a laugh! 😅**<br>
 
 ### Connect with me:
 <p align="left">
