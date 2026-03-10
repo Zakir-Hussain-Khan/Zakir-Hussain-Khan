@@ -1,51 +1,52 @@
 <h1 align="center">Hi 👋, I'm Zakir Hussain</h1>
-<h3 align="center">A passionate MERN Developer from Pakistan</h3>
+<h3 align="center">MERN Stack Developer | Building Scalable Web Applications</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=zakir-hussain-khan&label=Profile%20views&color=0e75b6&style=flat" alt="zakir-hussain-khan" />
 </p>
 
-- 💻 I’m currently building **dynamic web applications using MongoDB, Express.js, React, and Node.js, creating efficient full-stack solutions.**
+- 💻 Currently building **full-stack web applications using the MERN stack**
 
-- 📚 I’m currently learning **advanced React, Node.js, and RESTful API development to strengthen my MERN stack skills and build scalable applications.**
+- 📚 Currently learning **Advanced React, Node.js, and RESTful APIs**
+
+- 🎯 Goal: **Become a professional MERN Stack Developer and contribute to real-world applications**
 
 - 👨‍💻 All of my projects are available at  
-  **https://github.com/Zakir-Hussain-Khan/Zakir-Hussain-Khan**
+  **https://github.com/zakir-hussain-khan**
 
-- 💬 Ask me about **building dynamic web apps with MongoDB, Express.js, React, and Node.js (MERN stack).**
+- 💬 Ask me about **MongoDB, Express.js, React, Node.js**
 
-- 📫 How to reach me **zakirkhan23443@gmail.com**
+- 📫 Reach me at **zakirkhan23443@gmail.com**
 
-- ⚡ Fun fact **I love bringing humor into problem-solving — debugging is always better with a laugh! 😅**
+- ⚡ Fun fact: **Debugging feels like solving a puzzle — and I enjoy every piece of it 🧩**
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+<h3 align="left">🛠 Languages and Tools:</h3>
 
 <p align="left">
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-
-  <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zakir-hussain-khan&show_icons=true&locale=en&layout=compact" alt="zakir-hussain-khan" />
+---
+
+<h3 align="center">📊 GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=zakir-hussain-khan&theme=default" alt="GitHub Streak"/>
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zakir-hussain-khan&show_icons=true&locale=en" alt="zakir-hussain-khan" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zakir-hussain-khan&theme=github" alt="GitHub Stats"/>
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zakir-hussain-khan" alt="zakir-hussain-khan" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zakir-hussain-khan&theme=github" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zakir-hussain-khan" alt="GitHub Activity Graph"/>
 </p>
